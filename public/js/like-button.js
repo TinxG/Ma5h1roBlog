@@ -61,7 +61,7 @@
       }, 150);
       
       // Heart burst
-      createHeartBurst(button);
+      //createHeartBurst(button);
       
       // Tooltip
       showTooltip(button, '❤️ +1');
